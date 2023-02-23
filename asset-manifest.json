@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-landing/static/css/main.12e69240.css",
+    "main.js": "/product-landing/static/js/main.cc03e52c.js",
+    "index.html": "/product-landing/index.html",
+    "main.12e69240.css.map": "/product-landing/static/css/main.12e69240.css.map",
+    "main.cc03e52c.js.map": "/product-landing/static/js/main.cc03e52c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e69240.css",
+    "static/js/main.cc03e52c.js"
+  ]
+}
